@@ -1,0 +1,6 @@
+{
+  "apps": [{
+    "styles": ["styles.css"],
+    "scripts": ["Chart.roundedBarCharts.min.js", "Chart.roundedBarCharts.js"]
+  }]
+}
